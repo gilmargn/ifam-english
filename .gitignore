@@ -1,0 +1,9 @@
+# Arquivos de log
+*.log
+
+# Arquivos auxiliares LaTeX
+*.nav
+*.toc
+
+# Arquivos compactados
+*.gz
